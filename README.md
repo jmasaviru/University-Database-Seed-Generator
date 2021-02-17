@@ -3,7 +3,7 @@
 ## Description
 This application can be used to create a database and schema of University faculty staff and students from the backend via mongodb and mongoosejs. The user simply inputs information such as the student or staff's name, department, major and contacts.
 
-  ![Information input at front-end](public\assets\screenshot1.png)
+  ![Information input at front-end](/public/assets/screenshot1.png)
 
 ## Table of Contents
   1. [Technologies](#technologies)
@@ -12,22 +12,22 @@ This application can be used to create a database and schema of University facul
   4. [License](#license)
   5. [Questions](#questions)
 
-  ## Technologies
-  ### Back-end
+## Technologies
+### Back-end
   * Node
   * Express
 
-  ### Database
+### Database
   * MongoDB
   * MongooseJS
 
-  ## Usage
+## Usage
   The functionality is varied based on the type and role of user. For instance a university admin/registrar may use it to add or drop users such as new or former students and staff.
 
-    ![Database generated from input](public\assets\screenshot2.png)
+  ![Database generated from input](/public/assets/screenshot2.png)
 
   ## Contribution
-  - [James Masaviru](https://github.com/jmasaviru) ()
+  - [James Masaviru](https://github.com/jmasaviru)
   
    ## License
   *  ![License badge](https://img.shields.io/badge/License-MIT-green)
